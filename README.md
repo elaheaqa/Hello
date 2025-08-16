@@ -4,7 +4,7 @@ Here we go to Goals
 # A simple GitHub-friendly Python projec
 # Author: Your Name
 
-from datetime import datetime
+from datetime import datetime.
 import random
 
 quotes = [
