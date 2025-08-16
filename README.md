@@ -1,7 +1,7 @@
 # Hello
 Here we go to Goals
 # main.py
-# A simple GitHub-friendly Python project
+# A simple GitHub-friendly Python projec
 # Author: Your Name
 
 from datetime import datetime
