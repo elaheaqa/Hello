@@ -23,4 +23,3 @@ def show_welcome():
 
 if __name__ == "__main__":
     show_welcome()
-git push origin main
