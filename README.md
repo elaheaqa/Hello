@@ -23,3 +23,21 @@ def show_welcome():
 
 if __name__ == "__main__":
     show_welcome()
+    #!/bin/bash
+# Simple script to update GitHub repository
+# Usage: ./update.sh "your commit message"
+
+# Step 1: Add all changes
+git add .
+
+# Step 2: Commit with message
+if [ -z "$1" ]
+then
+  git commit -m "Update repository"
+else
+  git commit -m "$1"
+fi
+
+# Step 3: Push to GitHub
+git push origin main
+
