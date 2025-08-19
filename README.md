@@ -23,7 +23,7 @@ def show_welcome():
 
 if __name__ == "__main__":
     show_welcome()
-    #!/bin/bash
+    #!/bin/bash/
 # Simple script to update GitHub repository
 # Usage: ./update.sh "your commit message"
 
