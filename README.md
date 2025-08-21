@@ -42,5 +42,4 @@ fi
 git push origin main/
 .
 .
-.
-.love
+love
