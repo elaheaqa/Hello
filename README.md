@@ -18,5 +18,4 @@ git push origin main
 pause
 peak
 success
-...
 heart
