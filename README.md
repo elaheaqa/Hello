@@ -15,7 +15,7 @@ IF "%~1"=="" (
 :: Step 3: Push to GitHub
 git push origin main
 
-pause
+
 peak
 success
 heart
