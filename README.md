@@ -16,7 +16,7 @@ IF "%~1"=="" (
 git push origin main
 
 
-peak
+
 success
 heart
 goodness
