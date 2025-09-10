@@ -19,3 +19,4 @@ git push origin main
 net
 data
 accept
+ping
