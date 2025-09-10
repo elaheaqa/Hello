@@ -20,3 +20,4 @@ net
 data
 accept
 ping
+time
