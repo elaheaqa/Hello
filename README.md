@@ -21,3 +21,4 @@ data
 accept
 ping
 minning
+state
