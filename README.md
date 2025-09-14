@@ -18,6 +18,6 @@ git push origin main
 
 
 accept
-ping
+
 minning
 keep on
