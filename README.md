@@ -18,7 +18,7 @@ git push origin main
 
 
 
-minning
+
 keep on
 resolution
 free
