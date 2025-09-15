@@ -17,7 +17,7 @@ git push origin main
 
 
 
-accept
+
 minning
 keep on
 resolution
