@@ -21,3 +21,4 @@ accept
 minning
 keep on
 resolution
+free
