@@ -19,7 +19,6 @@ git push origin main
 
 
 
-keep on
 resolution
 free
 freak
