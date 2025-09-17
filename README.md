@@ -19,7 +19,7 @@ git push origin main
 
 
 
-resolution
+
 free
 freak
 streak
