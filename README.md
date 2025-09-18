@@ -16,10 +16,7 @@ IF "%~1"=="" (
 git push origin main
 
 
-
-
-
-
 free
 freak
 streak
+discord
