@@ -19,6 +19,6 @@ git push origin main
 
 
 streak
-discord
+
 Layer2
 transaction
