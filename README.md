@@ -18,7 +18,7 @@ git push origin main
 
 
 
-streak
+
 Layer2
 transaction
 layer1
