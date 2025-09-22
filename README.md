@@ -20,6 +20,6 @@ git push origin main
 
 
 Layer2
-transaction
+
 layer1
 airdrop
