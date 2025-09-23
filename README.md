@@ -19,7 +19,7 @@ git push origin main
 
 
 
-Layer2
+
 blockchain
 layer1
 airdrop
