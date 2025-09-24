@@ -18,5 +18,5 @@ git push origin main
 
 blockchain
 layer1
-airdrop
+
 r2
