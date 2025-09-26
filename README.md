@@ -17,7 +17,7 @@ git push origin main
 
 
 blockchain
-layer1
+
 claim
 chart
 pump
