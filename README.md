@@ -21,3 +21,5 @@ git push origin main
 claim
 chart
 pump
+bitcoin
+
