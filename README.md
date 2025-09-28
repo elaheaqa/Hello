@@ -22,4 +22,4 @@ git push origin main
 chart
 pump
 bitcoin
-
+node
