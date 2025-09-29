@@ -23,3 +23,4 @@ git push origin main
 pump
 bitcoin
 node
+dashboard
