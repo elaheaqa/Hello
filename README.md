@@ -24,3 +24,4 @@ pump
 bitcoin
 node
 dashboard
+gas
