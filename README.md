@@ -19,5 +19,5 @@ git push origin main
 
 node
 dashboard
-gas
+
 solana
