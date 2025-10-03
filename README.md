@@ -17,7 +17,7 @@ git push origin main
 
 
 
-node
+
 dashboard
 berachain
 Dump
