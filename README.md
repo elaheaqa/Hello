@@ -18,6 +18,6 @@ git push origin main
 
 
 
-dashboard
+
 berachain
 Dump
