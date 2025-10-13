@@ -21,7 +21,7 @@ git push origin main
 
 
 username
-password
+
 project
 cooldown
 
