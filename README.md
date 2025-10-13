@@ -20,7 +20,7 @@ git push origin main
 
 
 
-username
+
 
 project
 cooldown
