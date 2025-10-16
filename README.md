@@ -18,7 +18,7 @@ git push origin main
 
 
 
-cooldown
+
 warning
 website
 issue
