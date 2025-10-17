@@ -20,6 +20,6 @@ git push origin main
 
 
 warning
-website
+
 issue
 mainnet
