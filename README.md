@@ -21,5 +21,4 @@ git push origin main
 
 warning
 
-issue
 mainnet
