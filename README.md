@@ -20,7 +20,6 @@ git push origin main
 
 
 
-private key
 mainnet
 access
 pass
