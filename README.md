@@ -22,6 +22,6 @@ git push origin main
 
 
 access
-pass
+
 short
 
