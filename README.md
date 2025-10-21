@@ -20,7 +20,7 @@ git push origin main
 
 
 
-mainnet
+
 access
 pass
 short
