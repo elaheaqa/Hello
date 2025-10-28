@@ -26,5 +26,5 @@ thinking
 critical
 decode
 upcoming
-
+decoding
 
