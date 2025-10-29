@@ -26,5 +26,5 @@ thinking
 critical
 digital
 upcoming
-decoding
+
 
