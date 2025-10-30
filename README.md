@@ -24,7 +24,7 @@ git push origin main
 
 
 critical
-digital
+
 upcoming
 
 
