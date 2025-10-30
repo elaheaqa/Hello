@@ -22,7 +22,7 @@ git push origin main
 
 
 
-thinking
+
 critical
 digital
 upcoming
