@@ -23,7 +23,7 @@ git push origin main
 
 
 
-critical
+
 repository
 critical thinking
 
