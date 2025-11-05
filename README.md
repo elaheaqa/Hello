@@ -26,5 +26,5 @@ git push origin main
 
 repository
 critical thinking
-
+responsible
 
