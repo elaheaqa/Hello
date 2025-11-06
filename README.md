@@ -20,11 +20,9 @@ git push origin main
 
 
 
-
-
-
-
-
 critical thinking
 responsible
+computer
+
+
 
