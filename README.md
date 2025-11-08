@@ -22,6 +22,5 @@ git push origin main
 
 
 computer
-airdrop is coming
 crack
 
