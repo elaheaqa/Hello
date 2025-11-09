@@ -23,4 +23,4 @@ git push origin main
 
 computer
 crack
-
+fear and greed
