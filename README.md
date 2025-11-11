@@ -24,7 +24,7 @@ git push origin main
 
 crack
 fear and greed
-gold
+
 silver
 economy
 
