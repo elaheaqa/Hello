@@ -26,3 +26,5 @@ crack
 fear and greed
 gold
 silver
+economy
+
