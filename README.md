@@ -25,6 +25,6 @@ git push origin main
 
 fear and greed
 
-silver
+
 economy
 
