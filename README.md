@@ -23,7 +23,6 @@ git push origin main
 
 
 
-fear and greed
 
 fair
 economy
