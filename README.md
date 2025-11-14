@@ -26,4 +26,4 @@ git push origin main
 
 fair
 economy
-
+freedom
