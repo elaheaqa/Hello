@@ -28,6 +28,6 @@ ceremony
 economy
 freedom
 article
-
+original
 
 
