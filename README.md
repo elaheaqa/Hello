@@ -24,7 +24,7 @@ git push origin main
 
 
 
-ceremony
+
 economy
 freedom
 article
