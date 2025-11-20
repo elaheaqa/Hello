@@ -20,14 +20,7 @@ git push origin main
 
 
 
-
-
-
-
-
-
-
 system
 internet
 cost
-
+crazy
