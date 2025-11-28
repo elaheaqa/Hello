@@ -21,6 +21,6 @@ git push origin main
 
 writing
 reading
-wonder
+
 cost
 
