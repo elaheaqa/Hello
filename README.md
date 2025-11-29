@@ -19,7 +19,7 @@ git push origin main
 
 
 
-writing
+
 reading
 humanity
 cost
