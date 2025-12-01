@@ -20,7 +20,7 @@ git push origin main
 
 
 
-reading
+
 humanity
 cost
 university
