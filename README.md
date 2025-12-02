@@ -23,6 +23,6 @@ git push origin main
 
 humanity
 cost
-university
+
 micro
 timeout
