@@ -24,5 +24,5 @@ git push origin main
 humanity
 cost
 
-micro
+
 timeout
