@@ -21,7 +21,7 @@ git push origin main
 
 
 
-humanity
+
 cost
 big bang
 classroom
