@@ -24,5 +24,5 @@ git push origin main
 
 cost
 big bang
-classroom
+
 timeout
