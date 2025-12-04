@@ -23,6 +23,5 @@ git push origin main
 
 
 cost
-big bang
 
 timeout
