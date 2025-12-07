@@ -26,5 +26,5 @@ cost
 all right
 timeout
 privacy
-indivigual
+
 AI
