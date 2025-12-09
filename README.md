@@ -26,4 +26,4 @@ cost
 timeout
 privacy
 message
-
+insight
