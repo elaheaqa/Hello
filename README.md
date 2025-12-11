@@ -22,7 +22,7 @@ git push origin main
 
 
 
-cost
+
 timeout
 privacy
 message
