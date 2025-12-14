@@ -25,6 +25,6 @@ git push origin main
 cofference
 facebook
 privacy
-
+student
 insight
 
