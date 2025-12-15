@@ -26,5 +26,5 @@ git push origin main
 facebook
 privacy
 student
-insight
+
 Goodness
