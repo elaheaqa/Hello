@@ -23,7 +23,7 @@ git push origin main
 
 
 
-facebook
+
 privacy
 student
 global
