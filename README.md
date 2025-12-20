@@ -25,7 +25,6 @@ git push origin main
 
 
 privacy
-post
 global
 twitter
 
