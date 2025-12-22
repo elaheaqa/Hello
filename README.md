@@ -26,6 +26,6 @@ git push origin main
 
 privacy
 global
-twitter
+
 online shop
 cheap
