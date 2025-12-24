@@ -29,3 +29,4 @@ global
 citizen
 online shop
 cheap
+session
