@@ -27,6 +27,5 @@ git push origin main
 privacy
 global
 citizen
-online shop
 vacation
 session
