@@ -27,6 +27,6 @@ git push origin main
 privacy
 
 citizen
-vacation
+
 session
 closet
