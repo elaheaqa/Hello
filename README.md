@@ -24,7 +24,7 @@ git push origin main
 
 
 
-privacy
+
 
 citizen
 note
