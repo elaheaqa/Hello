@@ -27,7 +27,7 @@ git push origin main
 
 
 citizen
-note
+
 session
 closet
 good job
