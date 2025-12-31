@@ -26,7 +26,7 @@ git push origin main
 
 
 
-citizen
+
 
 session
 closet
