@@ -30,7 +30,6 @@ git push origin main
 
 session
 closet
-good job
 government
 brave
 migration
