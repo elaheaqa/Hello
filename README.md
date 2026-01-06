@@ -32,4 +32,4 @@ programing
 adaptor
 power
 balance
-
+model
