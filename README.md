@@ -28,7 +28,7 @@ git push origin main
 
 
 
-programing
+
 power
 balance
 model
