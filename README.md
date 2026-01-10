@@ -31,7 +31,7 @@ git push origin main
 
 power
 balance
-model
+
 millions
 
 supervision
