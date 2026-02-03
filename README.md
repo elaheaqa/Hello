@@ -30,7 +30,7 @@ git push origin main
 
 condition
 power
-balance
+
 transformation
 humanity
 
