@@ -31,7 +31,7 @@ Game
 condition
 power
 protester
-transformation
+
 humanity
 
 
