@@ -31,7 +31,7 @@ Game
 condition
 power
 protester
-
+start
 humanity
 
 
