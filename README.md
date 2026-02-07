@@ -27,7 +27,7 @@ git push origin main
 
 
 
-Game
+
 condition
 power
 protester
