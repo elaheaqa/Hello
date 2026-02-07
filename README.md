@@ -28,7 +28,7 @@ git push origin main
 
 
 
-condition
+
 power
 protester
 start
