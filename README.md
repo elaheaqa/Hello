@@ -34,4 +34,4 @@ power
 start
 humanity
 finish
-republican
+
