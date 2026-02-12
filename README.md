@@ -33,5 +33,5 @@ power
 Goodness
 start
 humanity
-finish
+
 raise
