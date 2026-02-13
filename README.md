@@ -35,3 +35,4 @@ start
 humanity
 reporter
 raise
+friday
