@@ -28,7 +28,7 @@ git push origin main
 
 
 
-trump
+
 power
 Goodness
 start
