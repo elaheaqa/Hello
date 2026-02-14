@@ -31,7 +31,7 @@ git push origin main
 
 power
 Goodness
-start
+
 humanity
 reporter
 raise
