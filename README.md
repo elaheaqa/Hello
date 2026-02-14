@@ -29,7 +29,7 @@ git push origin main
 
 
 
-power
+
 Goodness
 
 humanity
