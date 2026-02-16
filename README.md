@@ -30,7 +30,7 @@ git push origin main
 
 
 
-Goodness
+
 ladies
 humanity
 reporter
