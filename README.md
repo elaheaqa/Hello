@@ -31,7 +31,7 @@ git push origin main
 
 
 
-ladies
+
 
 reporter
 raise
