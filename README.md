@@ -35,7 +35,6 @@ git push origin main
 
 reporter
 raise
-good day
 petition
 america
 accept
