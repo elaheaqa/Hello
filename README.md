@@ -36,6 +36,6 @@ git push origin main
 reporter
 raise
 petition
-america
+
 accept
 university
