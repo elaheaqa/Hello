@@ -34,7 +34,7 @@ git push origin main
 border
 national
 reporter
-raise
+
 petition
 phantom
 accept
