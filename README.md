@@ -37,5 +37,5 @@ reporter
 
 petition
 phantom
-accept
+
 university
