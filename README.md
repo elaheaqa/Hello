@@ -36,6 +36,6 @@ national
 reporter
 worth
 petition
-phantom
+
 symbol
 
