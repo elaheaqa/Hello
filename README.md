@@ -37,5 +37,5 @@ reporter
 
 petition
 paper
-symbol
+
 
