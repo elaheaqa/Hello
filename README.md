@@ -32,7 +32,7 @@ git push origin main
 
 
 border
-national
+
 reporter
 kids
 bread
