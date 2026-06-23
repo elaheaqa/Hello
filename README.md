@@ -36,6 +36,6 @@ git push origin main
 costomer
 kids
 
-
+right
 clinic
 
