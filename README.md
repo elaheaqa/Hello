@@ -34,7 +34,7 @@ git push origin main
 
 
 costomer
-kids
+
 meta
 right
 clinic
