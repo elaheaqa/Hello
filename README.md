@@ -33,7 +33,7 @@ git push origin main
 
 
 
-costomer
+
 
 meta
 right
