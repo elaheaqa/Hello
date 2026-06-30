@@ -38,4 +38,4 @@ git push origin main
 meta
 right
 clinic
-versus
+
