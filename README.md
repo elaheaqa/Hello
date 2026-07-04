@@ -36,6 +36,6 @@ git push origin main
 
 
 meta
-right
+
 eat
 shalizar
