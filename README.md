@@ -37,6 +37,6 @@ git push origin main
 
 hassan
 silva
-eat
+
 shalizar
 carnival
