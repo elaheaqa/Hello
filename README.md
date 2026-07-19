@@ -38,6 +38,6 @@ git push origin main
 
 glory
 nissan
-makeup
+
 airdrop
 hormuz
