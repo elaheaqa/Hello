@@ -37,7 +37,7 @@ git push origin main
 
 
 glory
-nissan
+
 champion
 airdrop
 hormuz
