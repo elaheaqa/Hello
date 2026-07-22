@@ -37,7 +37,7 @@ git push origin main
 
 
 glory
-
+present
 champion
 airdrop
 hormuz
