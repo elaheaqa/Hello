@@ -40,4 +40,4 @@ glory
 present
 champion
 airdrop
-hormuz
+
