@@ -38,6 +38,6 @@ git push origin main
 cent
 glory
 present
-champion
+
 airdrop
 
