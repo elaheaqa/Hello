@@ -39,5 +39,5 @@ cent
 glory
 present
 
-airdrop
+
 
