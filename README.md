@@ -35,7 +35,7 @@ git push origin main
 
 
 
-cent
+
 glory
 
 session
