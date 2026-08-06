@@ -39,5 +39,5 @@ git push origin main
 glory
 transaction
 session
-honesty
+
 power
