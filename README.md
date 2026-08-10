@@ -38,6 +38,6 @@ git push origin main
 
 
 transaction
-
+speak
 finish
 power
