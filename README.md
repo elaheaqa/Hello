@@ -39,6 +39,6 @@ git push origin main
 pain
 test
 speak
-
+strike
 
 Iron
