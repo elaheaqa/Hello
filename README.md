@@ -39,6 +39,6 @@ git push origin main
 pain
 
 speak
-strike
+
 economy
 Iron
