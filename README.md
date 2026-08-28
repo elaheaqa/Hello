@@ -39,6 +39,5 @@ git push origin main
 pain
 free
 entry
-fan page
 economy
 
