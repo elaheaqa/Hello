@@ -26,18 +26,8 @@ git push origin main
 
 
 
-
-
-
-
-
-
-
-
-
-
 pain
 free
 entry
 economy
-
+fast
