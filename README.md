@@ -28,6 +28,6 @@ disaster
 answer
 structure
 free
-entry
+
 economy
 national
