@@ -27,7 +27,7 @@ git push origin main
 disaster
 fanta
 
-free
+
 block
 cry
 national
