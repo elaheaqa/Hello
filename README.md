@@ -28,6 +28,6 @@ git push origin main
 decade
 source
 colllect
-
+west
 version
 
