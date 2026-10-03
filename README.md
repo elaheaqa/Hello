@@ -29,5 +29,4 @@ hijab
 source
 sunrise
 gold
-south
 
