@@ -25,7 +25,7 @@ git push origin main
 
 
 
-loanly
+
 
 loyalty
 security
