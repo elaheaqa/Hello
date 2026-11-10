@@ -30,6 +30,6 @@ visible
 salsa
 security
 country
-middle
+
 working
 france
