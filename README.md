@@ -29,7 +29,7 @@ git push origin main
 
 providence
 security
-pray
+
 bahrain
 working
 culture
