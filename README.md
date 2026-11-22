@@ -30,7 +30,7 @@ git push origin main
 providence
 security
 
-bahrain
+
 working
 culture
 agancy
